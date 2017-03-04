@@ -1,2 +1,2 @@
 # spring-boot-hibernate
-spring example
+spring boot example
